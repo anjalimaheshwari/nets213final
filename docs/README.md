@@ -68,14 +68,13 @@ Thanks for using Noteworthy!
 ## Raw Data
 
 
+
 The music files we will be training on are from the Lahk MINI Dataset (LMD) and have been matched using the Million Song Dataset (MSD). Furthermore, we are using a subset of the data that are only piano rolls, have at most one time signature change events, have a 4/4 time signature, and start at time zero. This dataset has 21,425 multitrack pianorolls with no duplicates. The song are in midi format.
-=======
+
 3 sample training music midi files are included in data/.
 
-=======
 3 sample training music midi files are included in data/.
 
-=======
 3 sample training music midi files are included in data/.
 
 
